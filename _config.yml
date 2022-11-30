@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/Cv_DingXia.pdf
 
-url: https://sergiokopplin.github.io/indigo
+url: https://apisxia.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -35,25 +35,25 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+# twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: github.com/ApisXia
+email: dingxia1995@gmail.com
 
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+# authors:
+#   johndoe:
+#     name: John Doe
+#     bio: A Man who travels the world eating noodles
+#     external-image: false
+#     picture: assets/images/xia_profile.jpg
+#     twitter: johndoe
+#   jamesfoster:
+#     name: James Foster
+#     bio: A Man who develops software with coffee
+#     external-image: false
+#     picture: assets/images/james.jpg
+#     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
