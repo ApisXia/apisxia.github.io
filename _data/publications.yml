@@ -1,22 +1,61 @@
 main:
+  
+  - title: "Automating eHMI Action Design with LLMs for Automated Vehicle Communication"
+    authors: <strong>Ding Xia</strong>, Xinyue Gui, Fan Gao, Dongyuan Li, Mark Colley, Takeo Igarashi
+    conference_short: Arxiv
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2505.20711.pdf
+    # code: Release Soon
+    image: ./assets/img/teasers/ehmi_action_design_teaser.png
+    # notes: In Submission
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models"
+    authors: Fan Gao, Xinjie Zhao, <strong>Ding Xia</strong>, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, Chanjun Park, Irene Li
+    conference_short: Arxiv
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2504.14594
+    # code: 
+    # page: 
+    image: ./assets/img/teasers/healthgene_teaser.png
+    # notes: Oral Presentation
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation"
+    authors: <strong>Ding Xia</strong>, Naoto Inoue, Qianru Qiu, and Kotaro Kikuchi
+    conference_short: ICDAR
+    conference: International Conference on Document Analysis and Recognition <strong>(ICDAR)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2501.18951
+    # code: https://github.com/ApisXia/Draw2Cut
+    # page: https://apisxia.github.io/Draw2Cut/
+    image: ./assets/img/teasers/colorgpt_teaser.png
+    notes: Poster
+
+  - title: "Draw2Cut: Direct On-Material Annotations for CNC Milling"
+    authors: Xinyue Gui*, <strong>Ding Xia*</strong>, Wang Gao, Mustafa Doga Dogan, Maria Larsson, Takeo Igarashi (*Co-first authors)
+    conference_short: CHI
+    conference: Proceedings of The ACM conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2501.18951
+    code: https://github.com/ApisXia/Draw2Cut
+    page: https://apisxia.github.io/Draw2Cut/
+    image: ./assets/img/teasers/draw2cut_teaser.png
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  #   conference_short: MICCAI
+  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
