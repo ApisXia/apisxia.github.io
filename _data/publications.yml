@@ -17,7 +17,7 @@ main:
     # code: 
     # page: 
     image: ./assets/img/teasers/healthgene_teaser.png
-    notes: Demo Paper
+    notes: Demo
 
   - title: "ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation"
     authors: <strong>Ding Xia</strong>, Naoto Inoue, Qianru Qiu, and Kotaro Kikuchi
@@ -37,7 +37,46 @@ main:
     code: https://github.com/ApisXia/Draw2Cut
     page: https://apisxia.github.io/Draw2Cut/
     image: ./assets/img/teasers/draw2cut_teaser.png
-    notes: Oral Presentation
+    notes: Oral
+
+  - title: "SpaceEditing: A Latent Space Editing Interface for Integrating Human Knowledge into Deep Neural Networks"
+    authors: Jiafu Wei, <strong>Ding Xia</strong>, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
+    conference_short: IUI
+    conference: Proceedings of the 29th International Conference on Intelligent User Interfaces <strong>(IUI)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2212.04065
+    # code: 
+    # page: 
+    image: ./assets/img/teasers/spaceediting_teaser.png
+
+  - title: "PairingNet: A Learning-based Pair-searching and-matching Network for Image Fragments"
+    authors: Rixin Zhou, <strong>Ding Xia</strong>, Yi Zhang, Honglin Pang, Xi Yang, Chuntao Li
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07655.pdf
+    code: https://github.com/zhourixin/PairingNet
+    # page: 
+    image: ./assets/img/teasers/pairingnet_teaser.png
+    notes: Poster
+
+  - title: "Data-Driven Multi-modal Partial Medical Image Preregistration by Template Space Patch Mapping"
+    authors: <strong>Ding Xia</strong>, Xi Yang, Oliver van Kaick, Taichi Kin, Takeo Igarashi
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2022.
+    pdf: assets/paper_pdf/MICCAI2022_Data_driven.pdf 
+    code: https://github.com/ApisXia/PartialMedPreregistration
+    # page: 
+    image: ./assets/img/teasers/datadriven_teaser.png
+    notes: Poster
+
+  - title: "Intra: 3D Intracranial Aneurysm Dataset for Deep Learning"
+    authors: Xi Yang, <strong>Ding Xia</strong>, Taichi Kin, Takeo Igarashi
+    conference_short: CVPR
+    conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_IntrA_3D_Intracranial_Aneurysm_Dataset_for_Deep_Learning_CVPR_2020_paper.pdf
+    code: https://github.com/intra3d2019/IntrA
+    # page: 
+    image: ./assets/img/teasers/intra3d_teaser.jpg
+    notes: Oral
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
