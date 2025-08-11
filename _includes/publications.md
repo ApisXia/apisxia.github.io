@@ -17,7 +17,16 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <div class="author">
+        {% assign processed_authors = link.authors %}
+        {% for author_pair in site.data.authors %}
+          {% assign author_name = author_pair[0] %}
+          {% assign author_url = author_pair[1] %}
+          {% assign linked_author = '<a href="' | append: author_url | append: '" target="_blank">' | append: author_name | append: '</a>' %}
+          {% assign processed_authors = processed_authors | replace: author_name, linked_author %}
+        {% endfor %}
+        {{ processed_authors }}
+      </div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
