@@ -11,13 +11,13 @@ main:
 
   - title: "HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models"
     authors: Fan Gao, Xinjie Zhao, <strong>Ding Xia</strong>, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, Chanjun Park, Irene Li
-    conference_short: Arxiv
-    conference: Preprint
+    conference_short: CIKM
+    conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2504.14594
     # code: 
     # page: 
     image: ./assets/img/teasers/healthgene_teaser.png
-    # notes: Oral Presentation
+    notes: Demo Paper
 
   - title: "ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation"
     authors: <strong>Ding Xia</strong>, Naoto Inoue, Qianru Qiu, and Kotaro Kikuchi
