@@ -23,7 +23,7 @@ main:
     authors: <strong>Ding Xia</strong>, Naoto Inoue, Qianru Qiu, and Kotaro Kikuchi
     conference_short: ICDAR
     conference: International Conference on Document Analysis and Recognition <strong>(ICDAR)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2501.18951
+    pdf: https://arxiv.org/pdf/2508.08987
     # code: https://github.com/ApisXia/Draw2Cut
     # page: https://apisxia.github.io/Draw2Cut/
     image: ./assets/img/teasers/colorgpt_teaser.png
