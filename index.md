@@ -14,6 +14,7 @@ I am a Ph.D. student at the Information Science and Technology department of The
 
 ## News
 
+- **[Aug 2025]** 🎉 Our paper on automating EHMI action design with LLMs has been accepted to EMNLP 2025 Findings.
 - **[Aug 2025]** 🎉 Our paper HealthGenie has been accepted to CIKM 2025 Demo Paper Track.
 - **[June 2025]** 🎉 Our paper on document design, in collaboration with [CyberAgent AI Lab](https://research.cyberagent.ai/), has been accepted to ICDAR 2025.
 - **[Feb 2025]** 🎉 Our paper on hand-drawing systems for CAD has been accepted to CHI 2025.
