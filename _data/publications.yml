@@ -1,5 +1,41 @@
 main:
-  
+
+  - title: "Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI"
+    authors: Xinyue Gui, <strong>Ding Xia</strong>, Mark Colley, Yuan Li, Vishal Chauhan, Anubhav Anubhav, Zhongyi Zhou, Ehsan Javanmardi, Stela Hanbyeol Seo, Chia-Ming Chang, Manabu Tsukada, Takeo Igarashi
+    conference_short: CHI
+    conference: Proceedings of The ACM conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2026.
+    # pdf:
+    # code:
+    # page:
+    image: ./assets/img/teasers/vlm_personas_teaser.png
+
+  - title: "Don't Worry, Just Follow Me: Prototyping and In-the-Wild Evaluation of Smart Pole Interaction Unit with Mobility"
+    authors: Vishal Chauhan, Anubhav Anubhav, Mark Colley, Chia-Ming Chang, Xinyue Gui, <strong>Ding Xia</strong>, Ehsan Javanmardi, Takeo Igarashi, Kantaro Fujiwara, Manabu Tsukada
+    conference_short: CHI
+    conference: Proceedings of The ACM conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2026.
+    # pdf:
+    # code:
+    # page:
+    image: ./assets/img/teasers/smart_pole_teaser.png
+
+  - title: "EssayBench: Evaluating Large Language Models in Multi-Genre Chinese Essay Writing"
+    authors: Fan Gao, Dongyuan Li, <strong>Ding Xia</strong>, Fei Mi, Yasheng Wang, Lifeng Shang, Baojun Wang
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2506.02596.pdf
+    # code:
+    # page:
+    image: ./assets/img/teasers/essaybench_teaser.png
+
+  - title: "TailCue: Exploring Animal-inspired Robotic Tail for Automated Vehicles Interaction"
+    authors: Yuan Li*, Xinyue Gui*, <strong>Ding Xia</strong>, Mark Colley, Takeo Igarashi (*Co-first authors)
+    conference_short: HAI
+    conference: Proceedings of the 13th International Conference on Human-Agent Interaction <strong>(HAI)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2511.14242.pdf
+    # page:
+    image: ./assets/img/teasers/tailcue_teaser.png
+    notes: Oral
+
   - title: "Automating eHMI Action Design with LLMs for Automated Vehicle Communication"
     authors: <strong>Ding Xia</strong>, Xinyue Gui, Fan Gao, Dongyuan Li, Mark Colley, Takeo Igarashi
     conference_short: EMNLP
@@ -68,13 +104,21 @@ main:
     image: ./assets/img/teasers/datadriven_teaser.png
     notes: Poster
 
+  - title: "A Two-Step Surface-Based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms"
+    authors: Xi Yang, <strong>Ding Xia</strong>, Taichi Kin, Takeo Igarashi
+    conference_short: CVM
+    conference: Computational Visual Media <strong>(CVM)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2006.16161.pdf
+    # code:
+    image: ./assets/img/teasers/cvm_aneurysm_teaser.png
+
   - title: "Intra: 3D Intracranial Aneurysm Dataset for Deep Learning"
     authors: Xi Yang, <strong>Ding Xia</strong>, Taichi Kin, Takeo Igarashi
     conference_short: CVPR
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_IntrA_3D_Intracranial_Aneurysm_Dataset_for_Deep_Learning_CVPR_2020_paper.pdf
     code: https://github.com/intra3d2019/IntrA
-    # page: 
+    # page:
     image: ./assets/img/teasers/intra3d_teaser.jpg
     notes: Oral
 
