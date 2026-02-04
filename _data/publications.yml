@@ -5,9 +5,10 @@ main:
     conference_short: CHI
     conference: Proceedings of The ACM conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2026.
     # pdf:
-    # code:
+    code: https://github.com/ApisXia/PersonaVLM
     # page:
     image: ./assets/img/teasers/vlm_personas_teaser.png
+    notes: Oral
 
   - title: "Don't Worry, Just Follow Me: Prototyping and In-the-Wild Evaluation of Smart Pole Interaction Unit with Mobility"
     authors: Vishal Chauhan, Anubhav Anubhav, Mark Colley, Chia-Ming Chang, Xinyue Gui, <strong>Ding Xia</strong>, Ehsan Javanmardi, Takeo Igarashi, Kantaro Fujiwara, Manabu Tsukada
@@ -17,6 +18,7 @@ main:
     # code:
     # page:
     image: ./assets/img/teasers/smart_pole_teaser.png
+    notes: Oral
 
   - title: "EssayBench: Evaluating Large Language Models in Multi-Genre Chinese Essay Writing"
     authors: Fan Gao, Dongyuan Li, <strong>Ding Xia</strong>, Fei Mi, Yasheng Wang, Lifeng Shang, Baojun Wang
@@ -26,6 +28,7 @@ main:
     # code:
     # page:
     image: ./assets/img/teasers/essaybench_teaser.png
+    notes: Poster
 
   - title: "TailCue: Exploring Animal-inspired Robotic Tail for Automated Vehicles Interaction"
     authors: Yuan Li*, Xinyue Gui*, <strong>Ding Xia</strong>, Mark Colley, Takeo Igarashi (*Co-first authors)
