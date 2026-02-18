@@ -1,5 +1,15 @@
 main:
 
+  - title: "See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers"
+    authors: <strong>Ding Xia</strong>, Xinyue Gui, Mark Colley, Fan Gao, Zhongyi Zhou, Dongyuan Li, Renhe Jiang, Takeo Igarashi
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/pdf/2602.02063
+    # code:
+    # page:
+    image: ./assets/img/teasers/see2refine_teaser.png
+    notes: Preprint
+
   - title: "Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI"
     authors: Xinyue Gui, <strong>Ding Xia</strong>, Mark Colley, Yuan Li, Vishal Chauhan, Anubhav Anubhav, Zhongyi Zhou, Ehsan Javanmardi, Stela Hanbyeol Seo, Chia-Ming Chang, Manabu Tsukada, Takeo Igarashi
     conference_short: CHI
