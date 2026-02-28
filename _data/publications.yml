@@ -14,7 +14,7 @@ main:
     authors: Xinyue Gui, <strong>Ding Xia</strong>, Mark Colley, Yuan Li, Vishal Chauhan, Anubhav Anubhav, Zhongyi Zhou, Ehsan Javanmardi, Stela Hanbyeol Seo, Chia-Ming Chang, Manabu Tsukada, Takeo Igarashi
     conference_short: CHI
     conference: Proceedings of The ACM conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2026.
-    # pdf:
+    pdf: https://arxiv.org/pdf/2602.16157.pdf
     code: https://github.com/ApisXia/PersonaVLM
     # page:
     image: ./assets/img/teasers/vlm_personas_teaser.png
