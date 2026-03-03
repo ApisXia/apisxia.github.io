@@ -16,7 +16,7 @@ main:
     conference: Proceedings of The ACM conference on Human Factors in Computing Systems <strong>(CHI)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2602.16157.pdf
     code: https://github.com/ApisXia/PersonaVLM
-    # page:
+    page: https://apisxia.github.io/PersonaVLM/
     image: ./assets/img/teasers/vlm_personas_teaser.png
     notes: Oral
 
