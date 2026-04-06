@@ -14,6 +14,7 @@ I am a Ph.D. student at the Information Science and Technology department of The
 
 ## News
 
+- **[Apr 2026]** 🎉 Three papers accepted to ACL 2026: See2Refine on vision-language feedback for eHMI action design, MED-COREASONER on reducing language disparities in medical reasoning, and a component-grounded multimodal method for Oracle Bone Script interpretation.
 - **[Jan 2026]** 🎉 Two papers accepted to CHI 2026: VLM Personas for HCI studies and Smart Pole Interaction Unit.
 - **[Dec 2025]** 🎉 Our paper EssayBench on evaluating LLMs in Chinese essay writing has been accepted to AAAI 2026.
 - **[Oct 2025]** 🎉 Our paper TailCue on animal-inspired robotic tail for AV interaction has been accepted to HAI 2025.

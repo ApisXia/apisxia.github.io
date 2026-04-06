@@ -1,14 +1,31 @@
 main:
 
+  - title: "Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation"
+    authors: Jianing Zhang, Runan Li, Honglin Pang, <strong>Ding Xia</strong>, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
+    conference_short: ACL
+    conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    # pdf:
+    # code:
+    # page:
+    image: ./assets/img/teasers/OBS_teaser.png
+
+  - title: "Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning"
+    authors: Fan Gao, Sherry T. Tong, Jiwoong Sohn, Jiahao Huang, Junfeng Jiang, <strong>Ding Xia</strong>, Piyalitt Ittichaiwong, Kanyakorn Veerakanjana, Hyunjae Kim, Qingyu Chen, Edison Marrese Taylor, Kazuma Kobayashi, Akkiko Aizawa, Irene Li
+    conference_short: ACL
+    conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2601.08267
+    # code:
+    # page:
+    image: ./assets/img/teasers/med_coreasonor_teaser_v2.png
+
   - title: "See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers"
     authors: <strong>Ding Xia</strong>, Xinyue Gui, Mark Colley, Fan Gao, Zhongyi Zhou, Dongyuan Li, Renhe Jiang, Takeo Igarashi
-    conference_short: arXiv
-    conference: arXiv preprint, 2026.
+    conference_short: ACL
+    conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2602.02063
     # code:
     # page:
     image: ./assets/img/teasers/see2refine_teaser.png
-    notes: Preprint
 
   - title: "Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI"
     authors: Xinyue Gui, <strong>Ding Xia</strong>, Mark Colley, Yuan Li, Vishal Chauhan, Anubhav Anubhav, Zhongyi Zhou, Ehsan Javanmardi, Stela Hanbyeol Seo, Chia-Ming Chang, Manabu Tsukada, Takeo Igarashi
