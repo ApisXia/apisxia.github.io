@@ -8,6 +8,7 @@ main:
     # code:
     # page:
     image: ./assets/img/teasers/OBS_teaser.png
+    notes: Oral
 
   - title: "Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning"
     authors: Fan Gao, Sherry T. Tong, Jiwoong Sohn, Jiahao Huang, Junfeng Jiang, <strong>Ding Xia</strong>, Piyalitt Ittichaiwong, Kanyakorn Veerakanjana, Hyunjae Kim, Qingyu Chen, Edison Marrese Taylor, Kazuma Kobayashi, Akkiko Aizawa, Irene Li
@@ -17,6 +18,7 @@ main:
     # code:
     # page:
     image: ./assets/img/teasers/med_coreasonor_teaser_v2.png
+    notes: Poster
 
   - title: "See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers"
     authors: <strong>Ding Xia</strong>, Xinyue Gui, Mark Colley, Fan Gao, Zhongyi Zhou, Dongyuan Li, Renhe Jiang, Takeo Igarashi
@@ -26,6 +28,7 @@ main:
     # code:
     # page:
     image: ./assets/img/teasers/see2refine_teaser.png
+    notes: Oral
 
   - title: "Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI"
     authors: Xinyue Gui, <strong>Ding Xia</strong>, Mark Colley, Yuan Li, Vishal Chauhan, Anubhav Anubhav, Zhongyi Zhou, Ehsan Javanmardi, Stela Hanbyeol Seo, Chia-Ming Chang, Manabu Tsukada, Takeo Igarashi
