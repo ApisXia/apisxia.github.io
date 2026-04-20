@@ -5,7 +5,7 @@
 
 {% for link in site.data.publications.main %}
 
-<li>
+<li{% if forloop.index > 5 %} class="extra-pub"{% endif %}>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
@@ -51,10 +51,26 @@
     </div>
   </div>
 </div>
-</li>
 <br>
+</li>
 
 {% endfor %}
 
 </ol>
+
+{% assign total_pubs = site.data.publications.main | size %}
+{% if total_pubs > 5 %}
+{% assign hidden_count = total_pubs | minus: 5 %}
+<div class="toggle-pubs-wrap">
+  <button type="button" id="toggle-pubs" onclick="togglePublications()">View earlier work &#9662;</button>
+</div>
+<script>
+function togglePublications() {
+  var container = document.querySelector('.publications');
+  var btn = document.getElementById('toggle-pubs');
+  var expanded = container.classList.toggle('expanded');
+  btn.innerHTML = expanded ? 'Show less &#9652;' : 'View earlier work &#9662;';
+}
+</script>
+{% endif %}
 </div>
