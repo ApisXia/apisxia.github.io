@@ -15,7 +15,7 @@ main:
     conference_short: ACL
     conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2601.08267
-    # code:
+    code: https://github.com/astridesa/Med-CoReasoner
     # page:
     image: ./assets/img/teasers/med_coreasonor_teaser_v2.png
     notes: Poster
