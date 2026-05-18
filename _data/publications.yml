@@ -8,7 +8,6 @@ main:
     code: https://github.com/6zjn6/OBS-expert
     # page:
     image: ./assets/img/teasers/OBS_teaser.png
-    notes: Oral
 
   - title: "Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning"
     authors: Fan Gao, Sherry T. Tong, Jiwoong Sohn, Jiahao Huang, Junfeng Jiang, <strong>Ding Xia</strong>, Piyalitt Ittichaiwong, Kanyakorn Veerakanjana, Hyunjae Kim, Qingyu Chen, Edison Marrese Taylor, Kazuma Kobayashi, Akkiko Aizawa, Irene Li
@@ -18,7 +17,6 @@ main:
     code: https://github.com/astridesa/Med-CoReasoner
     # page:
     image: ./assets/img/teasers/med_coreasonor_teaser_v2.png
-    notes: Poster
 
   - title: "See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers"
     authors: <strong>Ding Xia</strong>, Xinyue Gui, Mark Colley, Fan Gao, Zhongyi Zhou, Dongyuan Li, Renhe Jiang, Takeo Igarashi
@@ -28,7 +26,6 @@ main:
     code: https://github.com/ApisXia/see2refine
     # page:
     image: ./assets/img/teasers/see2refine_teaser.png
-    notes: Oral
 
   - title: "Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI"
     authors: Xinyue Gui, <strong>Ding Xia</strong>, Mark Colley, Yuan Li, Vishal Chauhan, Anubhav Anubhav, Zhongyi Zhou, Ehsan Javanmardi, Stela Hanbyeol Seo, Chia-Ming Chang, Manabu Tsukada, Takeo Igarashi
@@ -38,7 +35,6 @@ main:
     code: https://github.com/ApisXia/PersonaVLM
     page: https://apisxia.github.io/PersonaVLM/
     image: ./assets/img/teasers/vlm_personas_teaser.png
-    notes: Oral
 
   - title: "Don't Worry, Just Follow Me: Prototyping and In-the-Wild Evaluation of Smart Pole Interaction Unit with Mobility"
     authors: Vishal Chauhan, Anubhav Anubhav, Mark Colley, Chia-Ming Chang, Xinyue Gui, <strong>Ding Xia</strong>, Ehsan Javanmardi, Takeo Igarashi, Kantaro Fujiwara, Manabu Tsukada
@@ -48,7 +44,6 @@ main:
     # code:
     # page:
     image: ./assets/img/teasers/smart_pole_teaser.png
-    notes: Oral
 
   - title: "EssayBench: Evaluating Large Language Models in Multi-Genre Chinese Essay Writing"
     authors: Fan Gao, Dongyuan Li, <strong>Ding Xia</strong>, Fei Mi, Yasheng Wang, Lifeng Shang, Baojun Wang
@@ -58,7 +53,6 @@ main:
     # code:
     # page:
     image: ./assets/img/teasers/essaybench_teaser.png
-    notes: Poster
 
   - title: "TailCue: Exploring Animal-inspired Robotic Tail for Automated Vehicles Interaction"
     authors: Yuan Li*, Xinyue Gui*, <strong>Ding Xia</strong>, Mark Colley, Takeo Igarashi (*Co-first authors)
@@ -67,7 +61,6 @@ main:
     pdf: https://arxiv.org/pdf/2511.14242.pdf
     # page:
     image: ./assets/img/teasers/tailcue_teaser.png
-    notes: Oral
 
   - title: "Automating eHMI Action Design with LLMs for Automated Vehicle Communication"
     authors: <strong>Ding Xia</strong>, Xinyue Gui, Fan Gao, Dongyuan Li, Mark Colley, Takeo Igarashi
@@ -76,7 +69,6 @@ main:
     pdf: https://arxiv.org/pdf/2505.20711.pdf
     code: https://github.com/ApisXia/AutomatingActionDesign
     image: ./assets/img/teasers/ehmi_action_design_teaser.png
-    notes: Poster
 
   - title: "HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models"
     authors: Fan Gao, Xinjie Zhao, <strong>Ding Xia</strong>, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, Chanjun Park, Irene Li
@@ -86,7 +78,6 @@ main:
     # code: 
     # page: 
     image: ./assets/img/teasers/healthgene_teaser.png
-    notes: Demo
 
   - title: "ColorGPT: Leveraging Large Language Models for Multimodal Color Recommendation"
     authors: <strong>Ding Xia</strong>, Naoto Inoue, Qianru Qiu, and Kotaro Kikuchi
@@ -96,7 +87,6 @@ main:
     # code: https://github.com/ApisXia/Draw2Cut
     # page: https://apisxia.github.io/Draw2Cut/
     image: ./assets/img/teasers/colorgpt_teaser.png
-    notes: Poster
 
   - title: "Draw2Cut: Direct On-Material Annotations for CNC Milling"
     authors: Xinyue Gui*, <strong>Ding Xia*</strong>, Wang Gao, Mustafa Doga Dogan, Maria Larsson, Takeo Igarashi (*Co-first authors)
@@ -106,7 +96,6 @@ main:
     code: https://github.com/ApisXia/Draw2Cut
     page: https://apisxia.github.io/Draw2Cut/
     image: ./assets/img/teasers/draw2cut_teaser.png
-    notes: Oral
 
   - title: "SpaceEditing: A Latent Space Editing Interface for Integrating Human Knowledge into Deep Neural Networks"
     authors: Jiafu Wei, <strong>Ding Xia</strong>, Haoran Xie, Chia-Ming Chang, Chuntao Li, Xi Yang
@@ -125,7 +114,6 @@ main:
     code: https://github.com/zhourixin/PairingNet
     # page: 
     image: ./assets/img/teasers/pairingnet_teaser.png
-    notes: Poster
 
   - title: "Data-Driven Multi-modal Partial Medical Image Preregistration by Template Space Patch Mapping"
     authors: <strong>Ding Xia</strong>, Xi Yang, Oliver van Kaick, Taichi Kin, Takeo Igarashi
@@ -135,7 +123,6 @@ main:
     code: https://github.com/ApisXia/PartialMedPreregistration
     # page: 
     image: ./assets/img/teasers/datadriven_teaser.png
-    notes: Poster
 
   - title: "A Two-Step Surface-Based 3D Deep Learning Pipeline for Segmentation of Intracranial Aneurysms"
     authors: Xi Yang, <strong>Ding Xia</strong>, Taichi Kin, Takeo Igarashi
@@ -154,24 +141,3 @@ main:
     # page:
     image: ./assets/img/teasers/intra3d_teaser.jpg
     notes: Oral
-
-  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
