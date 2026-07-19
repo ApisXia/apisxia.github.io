@@ -1,5 +1,23 @@
 main:
 
+  - title: "Tap2Stop: Pedestrian-Activated Emergency Stop for Autonomous Vehicles"
+    authors: Xinyue Gui, <strong>Ding Xia&dagger;</strong>, Yuan Li, Mark Colley, Chia-Ming Chang, Stela Hanbyeol Seo, Manabu Tsukada, Takeo Igarashi (&dagger;Corresponding author)
+    conference_short: UIST
+    conference: Proceedings of the ACM Symposium on User Interface Software and Technology <strong>(UIST)</strong>, 2026.
+    # pdf:
+    # code:
+    # page:
+    image: ./assets/img/teasers/tap2stop_teaser.jpg
+
+  - title: "Exploring LLMs for Generating Communicational Actions of External Interfaces on Autonomous Vehicles"
+    authors: Xinyue Gui, <strong>Ding Xia</strong>, Mark Colley, Stela Hanbyeol Seo, Chia-Ming Chang, Ehsan Javanmardi, Manabu Tsukada, Takeo Igarashi
+    conference_short: IMWUT
+    conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2026.
+    pdf: https://dl.acm.org/doi/10.1145/3810200
+    # code:
+    # page:
+    image: ./assets/img/teasers/llm_ehmi_actions_teaser.png
+
   - title: "Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation"
     authors: Jianing Zhang, Runan Li, Honglin Pang, <strong>Ding Xia</strong>, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
     conference_short: ACL
