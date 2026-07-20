@@ -4,7 +4,7 @@ main:
     authors: Xinyue Gui, <strong>Ding Xia&dagger;</strong>, Yuan Li, Mark Colley, Chia-Ming Chang, Stela Hanbyeol Seo, Manabu Tsukada, Takeo Igarashi (&dagger;Corresponding author)
     conference_short: UIST
     conference: Proceedings of the ACM Symposium on User Interface Software and Technology <strong>(UIST)</strong>, 2026.
-    # pdf:
+    pdf: https://doi.org/10.1145/3830398.3830497
     # code:
     # page:
     image: ./assets/img/teasers/tap2stop_teaser.jpg
